@@ -1,9 +1,0 @@
----
-
-- name: restart nginx in apache
-  host: all 
-
-  service:
-   - name: repository location
-     yum:
-      
