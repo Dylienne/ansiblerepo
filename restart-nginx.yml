@@ -1,5 +1,3 @@
----
-
 - name: restart nginx in apache
   host: all 
   become: true
